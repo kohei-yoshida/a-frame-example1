@@ -13,7 +13,7 @@
 
 [A-Frame](https://aframe.io/)
 
-## Direcotry
+## Directory
 
 ```txt
 ./a-frame-demo1
